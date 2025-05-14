@@ -1,7 +1,7 @@
 # Credit Card Fraud Detection with Machine Learning
 
 ## Overview
-This project develops a machine learning system to detect fraudulent credit card transactions, inspired by PayPal's fraud detection challenges. Using the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) (284,807 transactions, 0.172% fraud), it implements **XGBoost** for supervised learning and **Isolation Forest** for anomaly detection, addressing severe class imbalance with `scale_pos_weight`. The project includes Nature Publishing-quality visualizations (600 DPI, white background, no grid) and aligns with PayPal’s responsibilities: model development, supervised learning, anomaly detection, continual learning, collaboration, and advocacy.
+This project develops a machine learning system to detect fraudulent credit card transactions, inspired by PayPal's fraud detection challenges. Using the [Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud) (284,807 transactions, 0.172% fraud), it implements **XGBoost** for supervised learning and **Isolation Forest** for anomaly detection, addressing severe class imbalance with `scale_pos_weight`. 
 
 ## Objectives
 - Detect fraud with high recall to minimize missed cases, critical for financial security.
