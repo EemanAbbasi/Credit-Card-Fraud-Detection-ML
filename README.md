@@ -30,12 +30,6 @@ This project develops a machine learning system to detect fraudulent credit card
   - `confusion_matrix.png`, `roc_curve_tuned.png`, `confusion_matrix_tuned.png`: XGBoost results.
   - `anomaly_scatter.png`, `anomaly_score_histogram.png`, `confusion_matrix_hybrid.png`: Anomaly detection.
 - **Models**: `xgboost_fraud_model.pkl`, `xgboost_fraud_model_best.pkl`
-- **Reports**:
-  - `supervised_report.md`: Supervised learning results.
-  - `anomaly_report.md`: Anomaly detection results.
-  - `deployment_plan.md`: Deployment strategy.
-- **Data**: `X_train.csv`, `X_test.csv`, `y_train.csv`, `y_test.csv` (split datasets).
-
 ## Setup
 1. **Clone Repository**:
    ```bash
